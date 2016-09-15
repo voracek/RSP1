@@ -1,2 +1,2 @@
 # RSP1
-projet týmu ABC
+Projekt týmu ABC
